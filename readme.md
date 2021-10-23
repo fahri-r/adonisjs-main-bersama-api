@@ -3,9 +3,3 @@ Main bersama (Play Together) is a rental application for sports venues such as s
 
 ### [Documentation](https://mainbersama-api.herokuapp.com/docs/ "Main Bersama Documentation")
 ### [Base URL](https://mainbersama-api.herokuapp.com/ "Main Bersama Base URL")
-<br />
-<br />
-
-# **My Profile**
-Name    :   Muhammad Fahri Ramadhan<br />
-Email   : 00.fahri.r@protonmail.com
