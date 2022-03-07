@@ -191,7 +191,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">
     <a href="#top">
@@ -211,7 +211,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [issues-shield]: https://img.shields.io/github/issues/fahri-r/main-bersama-api.svg?style=for-the-badge
 [issues-url]: https://github.com/fahri-r/main-bersama-api/issues
 [license-shield]: https://img.shields.io/github/license/fahri-r/main-bersama-api.svg?style=for-the-badge
-[license-url]: https://github.com/fahri-r/main-bersama-api/blob/master/LICENSE.txt
+[license-url]: https://github.com/fahri-r/main-bersama-api/blob/master/LICENSE
 [size-shield]: https://img.shields.io/github/repo-size/fahri-r/main-bersama-api.svg?style=for-the-badge
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/fahri-r
