@@ -23,7 +23,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 ![Repo Size][size-shield]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -80,9 +79,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot][product-screenshot]
+[![Product Name Screen Shot][product-screenshot]][product-screenshot]
 
-Main bersama (Play Together) is a rental application for sports venues such as soccer, mini soccer, futsal, basketball, or volleyball. In addition, users can also join the schedule that has been made. So, each user can play together.
+Main bersama (Play Together) is a rental backend application for sports venues such as soccer, mini soccer, futsal, basketball, or volleyball. In addition, users can also join the schedule that has been made. So, each user can play together.
 
 <p align="right">
     <a href="#top">
@@ -108,23 +107,23 @@ Main bersama (Play Together) is a rental application for sports venues such as s
 
 ### Prerequisites
 
-* [Node.js v14.7.4](https://nodejs.org/dist/v14.17.4/)
+* [Node.js v14.7.4 or higher](https://nodejs.org/dist/v14.17.4/)
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repo.
    ```sh
    git clone https://github.com/fahri-r/main-bersama-api.git
    ```
 
-2. Install NPM packages
+2. Install NPM packages.
    ```sh
    npm install
    ```
 
-3. Rename `.env.example ` into `.env`
+3. Rename `.env.example` into `.env`.
 
-4. Set the database value in `.env`
+4. Set the database value in `.env`.
    ```sh
    ...
    MYSQL_HOST=localhost
@@ -135,9 +134,9 @@ Main bersama (Play Together) is a rental application for sports venues such as s
    ...
    ```
 
-5. Create database according to **MYSQL_DB_NAME**. in this case I created a database named lucid.
+5. Create database according to **MYSQL_DB_NAME**. in this case I have to create a database named `lucid`.
 
-6. Execute database migration
+6. Execute database migration.
    ```sh
    node ace migration:run
    ```
@@ -174,11 +173,11 @@ Contributions are what make the open source community such an amazing place to l
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Fork the Project.
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the Branch (`git push origin feature/AmazingFeature`).
+5. Open a Pull Request.
 
 <p align="right">
     <a href="#top">
@@ -202,17 +201,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/fahri-r/main-bersama-api.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/fahri-r/main-bersama-api?style=for-the-badge
 [contributors-url]: https://github.com/fahri-r/main-bersama-api/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/fahri-r/main-bersama-api.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/fahri-r/main-bersama-api?style=for-the-badge
 [forks-url]: https://github.com/fahri-r/main-bersama-api/network/members
-[stars-shield]: https://img.shields.io/github/stars/fahri-r/main-bersama-api.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/fahri-r/main-bersama-api?style=for-the-badge
 [stars-url]: https://github.com/fahri-r/main-bersama-api/stargazers
-[issues-shield]: https://img.shields.io/github/issues/fahri-r/main-bersama-api.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/fahri-r/main-bersama-api?style=for-the-badge
 [issues-url]: https://github.com/fahri-r/main-bersama-api/issues
-[license-shield]: https://img.shields.io/github/license/fahri-r/main-bersama-api.svg?style=for-the-badge
-[license-url]: https://github.com/fahri-r/main-bersama-api/blob/master/LICENSE
-[size-shield]: https://img.shields.io/github/repo-size/fahri-r/main-bersama-api.svg?style=for-the-badge
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/fahri-r
+[license-shield]: https://img.shields.io/github/license/fahri-r/main-bersama-api?style=for-the-badge
+[license-url]: https://github.com/fahri-r/main-bersama-api/blob/main/LICENSE
+[size-shield]: https://img.shields.io/github/repo-size/fahri-r/main-bersama-api?style=for-the-badge
 [product-screenshot]: https://drive.google.com/uc?id=146cP0NcWIkLLUOxWLKhqvto--HCU4two
